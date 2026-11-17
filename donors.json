@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Meena Joshi",
+        "blood_group": "O+",
+        "units": 1
+    },
+    {
+        "name": "Suresh Rao",
+        "blood_group": "O+",
+        "units": 2
+    },
+    {
+        "name": "Aman Singh",
+        "blood_group": "A+",
+        "units": 2
+    },
+    {
+        "name": "Rohit",
+        "blood_group": "A-",
+        "units": 3
+    },
+    {
+        "name": "Anil Verma",
+        "blood_group": "B+",
+        "units": 1
+    },
+    {
+        "name": "Aadi Soni",
+        "blood_group": "AB+",
+        "units": 5
+    },
+    {
+        "name": "mayank",
+        "blood_group": "O+",
+        "units": 3
+    },
+    {
+        "name": "Aman",
+        "blood_group": "O-",
+        "units": 2
+    }
+]
